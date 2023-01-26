@@ -27,7 +27,7 @@
   
 ## My approach
 
-I read through the notes to find the main feature of the new API, and which notes, if any, applied to all users (end users, administrators and API developers). End users being able to work on the same Thing at the same time seemed like the main feature of the API and relevant to all users. I used this information as the starting point for each section.
+I read through the notes to find the main feature of the new API, and which notes, if any, applied to all users (end users, administrators and third-party developers). End users being able to work on the same Thing at the same time seemed like the main feature of the API and relevant to all users. I used this information as the starting point for each section.
 
 I decided which section to put the remaining notes in by reading them from each user’s point of view — to identify the different types of information and make assumptions on what I thought was relevant for each user. 
 
